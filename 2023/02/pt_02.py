@@ -1,5 +1,5 @@
 import sys
-sys.path.append('2023/02_12')
+sys.path.append('2023/02')
 from pt_01 import DEBUG_INPUT, INPUT_FILENAME
 from collections import defaultdict
 import numpy as np

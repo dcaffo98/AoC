@@ -6,7 +6,7 @@ NOT_FOUND = ('', float('inf'))
 
 if __name__ == '__main__':
     values = []
-    with open('data/2023/01_12/calibration_document.txt', 'r') as f:
+    with open('data/2023/01/calibration_document.txt', 'r') as f:
         for line in f:
             try:
                 first_w = min(

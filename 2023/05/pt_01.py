@@ -38,7 +38,7 @@ humidity-to-location map:
 60 56 37
 56 93 4"""
 
-INPUT_FILENAME = 'data/2023/05_12/input.txt'
+INPUT_FILENAME = 'data/2023/05/input.txt'
 
 '''
 the destination range start, the source range start, and the range length [,)

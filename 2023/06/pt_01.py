@@ -9,7 +9,7 @@ race = namedtuple('race', ['time', 'distance'])
 DEBUG_INPUT = """Time:      7  15   30
 Distance:  9  40  200"""
 
-INPUT_FILENAME = 'data/2023/06_12/input.txt'
+INPUT_FILENAME = 'data/2023/06/input.txt'
 
 
 def find_solutions(race):

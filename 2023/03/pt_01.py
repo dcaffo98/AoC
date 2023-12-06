@@ -14,7 +14,7 @@ DEBUG_INPUT = """467..114..
 ...$.*....
 .664.598.."""
 
-INPUT_FILENAME = 'data/2023/03_12/engine_parts.txt'
+INPUT_FILENAME = 'data/2023/03/engine_parts.txt'
 
 
 def is_part(lines, row, start, end):
